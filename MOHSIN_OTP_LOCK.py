@@ -27,8 +27,8 @@ def otp_lock_banner():
        ====UU====UU====
            '\/\/'
 [bold {color}]●[bold {colors[(colors.index(color) + 1) % len(colors)]}] ●[bold {colors[(colors.index(color) + 2) % len(colors)]}] ======================================================
-[bold white][[bold red]^[bold white]] [bold green] Author: Krishna & Ꭰᥲʀk Ꮮᴇᴀᴅᴇʀ \n[bold white][[bold red]^[bold white]] [bold green] Github: github.com/Mr-Krishna-90 \n[bold white][[bold red]^[bold white]] [bold green] Telegram: https://t.me/+GrRkWxyiROs4ZGU1
-[bold {color}] [bold {colors[(colors.index(color) + 1) % len(colors)]}] [bold {colors[(colors.index(color) + 2) % len(colors)]}]===================================================== ''', title="[bold red] Created By Krishna", style=color)
+[bold white][[bold red]^[bold white]] [bold green] Author: MOHSIN HACKER \n[bold white][[bold red]^[bold white]] [bold green] TELEGRAM t.me/kashmirimodz \n[bold white][[bold red]^[bold white]] [bold green] Telegram: https://t.me/kashmirimodz
+[bold {color}] [bold {colors[(colors.index(color) + 1) % len(colors)]}] [bold {colors[(colors.index(color) + 2) % len(colors)]}]===================================================== ''', title="[bold red] Created By MOHSIN", style=color)
         console.print(panel)
         time.sleep(0.5)
 
@@ -39,7 +39,7 @@ def temp_ban_api(country_code, phone_number):
         response = requests.get(api_url)
         response.raise_for_status()  # Raise an exception for HTTP errors
         if response.status_code == 200:
-            return "\n\n[✓] Successfully done\n  Completed..!!\n\nThank You For Using My Script!!\n Created By Krishna!!\n"
+            return "\n\n[✓] Successfully done\n  Completed..!!\n\nThank You For Using My Script!!\n Created By MOHSIN HACKER!!\n"
         else:
             return "Not done"
     except requests.exceptions.RequestException as e:
@@ -73,13 +73,13 @@ def print_separator():
 
 # Define lines of text with color and bold settings
 lines = [
-    ("CALL ME Krishna..", "93", True),
-    ("I AM FROM INDIA..", "92", True),
-    ("I AM THE OWNER OF Ꭰᥲʀκ͢ㅤᏞᴇᴀᴅᴇʀ ✞ TEAM..", "94", True),
+    ("CALL ME MOHSIN..", "93", True),
+    ("I AM FROM KASHMIR..", "92", True),
+    ("I AM THE OWNER OF KASHMIRI_MODZ ✞ TEAM..", "94", True),
     ("HOPE YOU LIKE THIS SCRIPT..", "95", True),
     ("OOPS... I TALK A LOT SRY FOR THAT..", "96", True),
     ("Telegram Channel: ", "97", True),
-    ("https://t.me/+GrRkWxyiROs4ZGU1", "91", False),
+    ("https://t.me/kashmirimodz", "91", False),
     ("Permanent WhatsApp Otp Lock..", "92", True),
     ("Wait For Start Tool..............", "90", True)
 ]
@@ -107,7 +107,7 @@ def redirect_to_telegram_channel(channel_url):
         print(f"Error: {e}")
 
 # URL of your Telegram channel
-telegram_channel_url = "https://t.me/+GrRkWxyiROs4ZGU1"
+telegram_channel_url = "t.me/kashmirimodz"
 
 # Redirect users to the Telegram channel
 redirect_to_telegram_channel(telegram_channel_url)
