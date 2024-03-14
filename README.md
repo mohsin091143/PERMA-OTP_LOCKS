@@ -28,13 +28,11 @@ Warning 🚦 This Tool Formates (Permanent WhatsApp Otp Lock) So think and Use.
 * `pkg install python -y`
 * `pkg install git -y`
 * `git clone https://github.com/mohsin091143/PERMA-OTP_LOCKS.git `
-* `cd $HOME`
-* `ls`
-* `cd PERMA-OTP_LOCK`
+* `cd PERMA-OTP_LOCKS`
 * `pip install requests`
 * `pip install rich`
 * `ls`
-* `python PERMA-OTP_LOCK.py`
+* `python MOHSIN_OTP_LOCK.py`
 ```
 [+]-- Now you need internet connection to continue further process...
 [+]-- You can select any option by clicking on your keyboard
