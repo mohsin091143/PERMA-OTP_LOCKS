@@ -24,12 +24,12 @@ def otp_lock_banner():
        ====UU====UU====
            '//||\\`
 [bold white]======================================
-[bold white][[bold red]^[bold white]] [bold green] Author: MOHSIN HACKER \n[bold white][[bold red]^[bold white]] [bold green] Github: github.com/mohsin0911 \n[bold white][[bold red]^[bold white]] [bold green] Telegram: https://t.me/KASHMIRIMODZ
+[bold white][[bold red]^[bold white]] [bold green] Author: MOHSIN HACKER \n[bold white][[bold red]^[bold white]] [bold green] Github: github.com/mohsin091143 \n[bold white][[bold red]^[bold white]] [bold green] Telegram: https://t.me/KASHMIRIMODZ
 [bold white]====================================== ''')
         time.sleep(0.5)
   
 print('''[bold white]======================================
-[bold white][[bold red]^[bold white]] [bold green] Author: : MOHSIN HACKER [bold white][[bold red]^[bold white]] [bold green] Github: github.com/mohsin0911 [bold white][[bold red]^[bold white]] [bold green] Telegram: https://t.me/KASHMIRIMODZ
+[bold white][[bold red]^[bold white]] [bold green] Author: : MOHSIN HACKER [bold white][[bold red]^[bold white]] [bold green] Github: github.com/mohsin091143 [bold white][[bold red]^[bold white]] [bold green] Telegram: https://t.me/KASHMIRIMODZ
 [bold white]====================================== ''')
 
 # API function
