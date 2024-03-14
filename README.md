@@ -52,7 +52,7 @@ Warning 🚦 This Tool Formates (Permanent WhatsApp Otp Lock) So think and Use.
 
 <h3 style="color:purple"> THANKS FOR USING OUR TOOL </h3>
 
-``© MOHSIn 🇮🇳``
+``© MOHSIn pk``
 
 
 ## WARNING : 
